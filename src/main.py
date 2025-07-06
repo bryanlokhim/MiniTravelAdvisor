@@ -1,4 +1,4 @@
-import_os
+import os
 import json
 from langchain_community.llms import Ollama
 from langchain.prompts import PromptTemplate
