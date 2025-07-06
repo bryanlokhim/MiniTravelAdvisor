@@ -1,0 +1,7 @@
+[
+  {"name": "Miami", "description": "Sunny beaches, vibrant nightlife, and affordable resorts", "category": "Beach", "budget": "Medium"},
+  {"name": "Paris", "description": "Romantic city with historic landmarks and cafes", "category": "Culture", "budget": "High"},
+  {"name": "Bangkok", "description": "Bustling markets, temples, and budget-friendly street food", "category": "Culture", "budget": "Low"},
+  {"name": "Reykjavik", "description": "Stunning nature, hot springs, and northern lights", "category": "Nature", "budget": "High"},
+  {"name": "Cancun", "description": "Tropical beaches, clear waters, and all-inclusive resorts", "category": "Beach", "budget": "Medium"}
+]
